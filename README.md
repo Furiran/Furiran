@@ -26,7 +26,7 @@
 		</td>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Furiran&theme=blueberry-duo&locale=zh_Hans)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Furiran&theme=blueberry-duo" width="100%" />
 
 <center>
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Furiran&theme=github-compact&hide_border=true&area=true" />
